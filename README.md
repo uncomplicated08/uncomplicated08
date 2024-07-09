@@ -22,4 +22,4 @@ Jack of all trades, master of one—Python! Here's the scoop: I might procrastin
 - 📫 Catch me coding away at [shane.d88@gmail.com](mailto:shane.d88@gmail.com) or follow my tech journey on [LinkedIn](https://www.linkedin.com/in/shaned88/).
 
 ### Fun Fact
-- In a these texts not so plain, a sneaky Rickroll might lay in vein, Did you catch it, did you see? Reveal the secret, set it free!
+- In these lines not so plain, a sneaky Rickroll might hide in vain, Did you catch it, did you see? Reveal the secret, set it free!
